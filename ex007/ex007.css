@@ -1,0 +1,47 @@
+body{
+    background-color: #d5168975;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.geral{
+    color: rgb(41, 0, 33);
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px black;
+    padding: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+button{
+    padding: 6px;
+    color: blanchedalmond;
+    background-color: rgb(101, 51, 126);
+    border: rgb(105, 4, 81);
+}
+.mn{
+    background-color: rgb(127, 114, 181);
+}
+h1{
+    font-size: 30px;
+    color: rgb(168, 13, 98);
+}
+.geral2{
+    color: rgb(41, 0, 33);
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px black;
+    padding: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.decor{
+    color: rgb(76, 43, 226);
+}
+.kd{
+    background-color: rgb(219, 180, 255);
+}

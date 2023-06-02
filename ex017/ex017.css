@@ -1,0 +1,39 @@
+body {
+    background-color: #875391;
+    text-align: center;
+    align-items: center;
+  
+}
+div {
+    background-color: #FEFBE9;
+    border-radius: 10px;
+    width: 600px;
+    max-height: 1000px;
+    margin-left: 420px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+div > button {
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    background-color: #b6c0b3;
+    border: 4px;
+    border-color: black;
+    margin-bottom: 20px;
+   
+
+}
+.verde {
+    color: rgb(122, 0, 128);
+}
+.vermelho {
+    color:red;
+}
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.tamanho {
+    width: 300px;
+}

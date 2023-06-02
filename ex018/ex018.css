@@ -1,0 +1,23 @@
+body{
+    background-color: #bd4bda;
+    text-align: center;
+    align-items: center;
+    background-image: url(./img/capa.jpg);
+}
+div{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 600px;
+    max-height: 1000px;
+    margin-left: 420px;
+    box-shadow: 5px 5px 10px gray;
+}
+div > input{
+    margin-top: 30px;
+}
+div > button{
+    margin-top: 20px;
+}
+.imagem{
+    width: 400px;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: #2c8374;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+    color: #fdfaeb;
+    text-align: center;
+   
+}
+div{
+    color: #f7a29e;
+    background-color: #faeddf;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #f3c6b9;
+    padding: 5px;
+    text-align: center;
+}
+button{
+    padding: 6px;
+    color:#3b3f49;
+    background-color: #f7a29e;
+    border: #f7a29e;
+}    

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>atividade 4</title>
+    <style>
+        button{
+            background-color: blueviolet;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>registro de clientes</h1>
+    <button onclick="Rv()">cadastrar nova pessoa</button>
+    <p id="aparecela">pessoas que estão por aqui</p>
+</body>
+<script>
+    function Rv() {
+        var h1 = prompt("nome da nova pessoa ")
+       document.getElementById("aparecela").innerHTML += `<br> &#x1F596 acabei de cadastrar ${h1} no sistema`
+
+    }
+        
+</script>
+</html>
